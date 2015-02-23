@@ -6566,4 +6566,24 @@ button.close {
     display: none !important;
   }
 }
+
+.rando{
+  background:#eee;
+    }
+
+.pad-top{padding-top:16px;}
+.nav {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
 /*# sourceMappingURL=bootstrap.css.map */
